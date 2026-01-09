@@ -1,3 +1,4 @@
+
 # License Interpretation
 
 ## Cel repozytorium
